@@ -1,0 +1,7 @@
+continuous delivery and devops
+development team 
+operations team
+continuous delivery
+continuous feedback
+continuous integration
+continuous monitoring
